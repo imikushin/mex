@@ -1,7 +1,7 @@
-(ns mex-test
+(ns mex.core-test
   (:require [clojure.test :refer :all]
             [cljs.core]
-            [mex]))
+            [mex.core :as mex]))
 
 ; TODO more tests
 (deftest simple-expand

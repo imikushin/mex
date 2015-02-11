@@ -1,4 +1,4 @@
-(ns mex
+(ns mex.core
   (:refer-clojure :exclude [macroexpand-1])
   (:require [cljs.core]
             [cljs.analyzer]))
